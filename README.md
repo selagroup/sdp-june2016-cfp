@@ -91,7 +91,7 @@ For each talk or workshop that you would like to propose:
 
 1. [Create a new issue](https://github.com/selagroup/sdp-june2016-cfp/issues/new) in this repository titled `Talk Title` (e.g. `Developing high-performance C++ algorithms`).
 1. Specify the talk type (workshop, half-day workshop, or breakout session).
-1. Specify the speaker or speakers delivering the talk.
+1. Specify the speaker or speakers delivering the talk. Ideally, reference the issue with the speaker profile. For example: [Sasha Goldshtein](https://github.com/selagroup/sdp-june2016-cfp/issues/1)
 1. Provide the talk's technical level (beginner, intermediate, advanced, expert).
 1. Provide the talk's abstract (at least 3-4 sentences that make it clear what the talk is going to cover).
 1. Provide the prerequisite knowledge required of the attendees, if any.
