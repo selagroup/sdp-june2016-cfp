@@ -34,6 +34,23 @@ There are multiple talk formats, including workshops that can be delivered in ou
 
 **Breakout session:** a 50-60 minute talk
 
+#### Topics
+
+You are welcome to submit talks on a variety of topics related to software development. The following list is not binding -- feel free to submit ideas from other areas as well:
+
+* .NET Core, Visual Studio vNext, managed languages
+* Functional programming, F#, Scala
+* C++ libraries, practices, language evolution
+* Web development, ES6/7, TypeScript, frameworks and libraries: React, Angular, etc.
+* Big data frameworks, practices, patterns, case studies
+* Cloud computing, Azure, AWS, HPC, hybrid workloads
+* Mobile application development, hybrid apps, cross-platform development with Xamarin/Cordova/C++
+* Infrastructure, cloud migration, networking, monitoring, DevOps
+* Development methodologies, soft skills, testing and integration practices
+* Application performance, systems performance, monitoring and diagnostics, debugging, analytics
+* Software architecture, microservices, design
+* Application security, web security, systems security
+
 #### Speaker Benefits
 
 Local speakers are invited to attend all conference days and workshops. Speakers who require special accommodation are requested to contact us.
