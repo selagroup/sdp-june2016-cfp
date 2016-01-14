@@ -64,7 +64,7 @@ Inspired by many other conferences who are running their CFP on GitHub, we decid
 
 For every speaker who is submitting talks:
 
-1. Create a new issue in this repository titled `FirstName LastName Speaker Profile` (e.g. `Sasha Goldshtein Speaker Profile`).
+1. [Create a new issue](https://github.com/selagroup/sdp-june2016-cfp/issues/new) in this repository titled `FirstName LastName Speaker Profile` (e.g. `Sasha Goldshtein Speaker Profile`).
 1. Provide the speaker's name and biography.
 1. Provide a link to the speaker's profile photo (200x200 JPG or PNG).
 1. Provide links to relevant professional social networks such as GitHub, StackOverflow, Twitter, and LinkedIn.
@@ -72,7 +72,7 @@ For every speaker who is submitting talks:
 
 For each talk or workshop that you would like to propose:
 
-1. Create a new issue in this repository titled `Talk Title` (e.g. `Developing high-performance C++ algorithms`).
+1. [Create a new issue](https://github.com/selagroup/sdp-june2016-cfp/issues/new) in this repository titled `Talk Title` (e.g. `Developing high-performance C++ algorithms`).
 1. Specify the talk type (workshop, half-day workshop, or breakout session).
 1. Provide the talk's technical level (beginner, intermediate, advanced, expert).
 1. Provide the talk's abstract (at least 3-4 sentences that make it clear what the talk is going to cover).
