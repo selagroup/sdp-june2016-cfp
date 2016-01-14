@@ -38,7 +38,7 @@ There are multiple talk formats, including workshops that can be delivered in ou
 
 Local speakers are invited to attend all conference days and workshops. Speakers who require special accommodation are requested to contact us.
 
-For international speakers, we will cover airfare, accommodation in a Tel-Aviv hotel, and travel to/from the airport. International speakers are requested to deliver a workshop; compensation for the workshop will be according to the number of attendees who sign up. Additional details on the compensation structure will be provided to selected speakers.
+For international speakers, we will cover airfare, accommodation in a Tel-Aviv hotel, and travel to/from the airport. International speakers are requested to deliver a workshop; compensation for the workshop will be determined according to the number of attendees who sign up. Additional details on the compensation structure will be provided to selected speakers.
 
 #### Speaker Notification
 
