@@ -1,6 +1,6 @@
 ## Sela Developer Practice June 2016 -- Call for Papers
 
-[Sela Developer Practice](http://www.seladeveloperpractice.com) is Israel's largest conference for software developers and IT professionals. Since the first SDP in 2009, the conference kept growing -- we now have two SDPs every year, with more than 3,000 attendees in attendance.
+[Sela Developer Practice](http://www.seladeveloperpractice.com) is Israel's largest conference for software developers and IT professionals. Since the first SDP in 2009, the conference kept growing -- we now have two SDPs every year, with more than 3,000 attendees.
 
 This year, we're running our Call for Papers on GitHub: you can submit your talk ideas, review existing submissions, comment and discuss with your fellow speakers and attendees, and update your submission as necessary.
 
